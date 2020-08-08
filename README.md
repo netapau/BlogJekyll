@@ -1,5 +1,7 @@
 # BlogJekyll
 
+[Jekyll docs](https://jekyllrb.com/docs/step-by-step/01-setup/)
+
 Jekyll Blog test on Azure
 ---
 
